@@ -74,7 +74,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ isOpen, onToggle }) => {
             <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center shadow-glow">
               <Truck className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="font-display text-xl font-bold gradient-text">عزة</span>
+            <span className="font-display text-xl font-bold gradient-text">KSA Trucks</span>
           </div>
           <button
             onClick={onToggle}

@@ -108,7 +108,7 @@ const translations: Record<Language, Record<string, string>> = {
     'auth.email': 'Email',
     'auth.password': 'Password',
     'auth.companyName': 'Company Name',
-    'auth.welcome': 'Welcome to عزة Logistics',
+    'auth.welcome': 'Welcome to KSA Trucks',
     'auth.subtitle': 'Your futuristic logistics partner',
     
     // Common
@@ -216,7 +216,7 @@ const translations: Record<Language, Record<string, string>> = {
     'auth.email': 'البريد الإلكتروني',
     'auth.password': 'كلمة المرور',
     'auth.companyName': 'اسم الشركة',
-    'auth.welcome': 'مرحباً بك في عزة للخدمات اللوجستية',
+    'auth.welcome': 'مرحباً بك في KSA Trucks',
     'auth.subtitle': 'شريكك اللوجستي المستقبلي',
     
     // Common
