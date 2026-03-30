@@ -148,7 +148,7 @@ export default function Auth() {
             <Truck className="w-10 h-10 text-primary-foreground" />
           </div>
           <h1 className="font-display text-3xl font-bold gradient-text mb-2">
-            عزة
+            KSA Trucks
           </h1>
           <p className="text-muted-foreground">
             {t('auth.subtitle')}
